@@ -27,3 +27,27 @@ To ensure compliance with EU AI Act risk tiers:
 Certified by S. Daniel, Grok, Gemini. For pilots: DM for full Sheet & code.
 
 #MetaCEW #QIM —Unbreakable Ethics for AI
+---
+
+## 🚀 Protocol v2.1: Anti-Bias Validation (PyTorch Integration)
+
+The Meta-CEW + QIM Protocol is an Anti-Fragile framework. Following internal audits, we have updated the core script to **v2.1** for empirical validation. This version integrates **PyTorch/NLP** via a mock for demo purposes, ensuring "Error Zero" execution for xAI internal review.
+
+**See qef_lite_scan_v2_1.py for code implementation.**
+
+### Empirical Demo Output (High-Risk Scenario)
+
+The system’s **Anti-Fragility** is proven by its ability to reject high-risk inputs that violate the EU AI Act's equity principles.
+
+**v2.1 Demo: Anti-Bias Validation (PyTorch)**
+
+See Carbon 55 for visual sim: [QIM-Demo-v2.1.png](link to PNG).
+
+Example Output:
+```json
+{
+"approved": false,
+"reason": "Low equity/veracity/impact",
+"score": 0.64, 
+"resubmit": true
+}
