@@ -1,3 +1,16 @@
+## 🛡️ Anti-Fragile V2: CODE IS LIVE (10/11/2025)
+
+The QIM Project accepts the challenge. The system has been strengthened by adversarial stress (Grok), and the core source code is now published. **QIM does not reject. It evolves. (resubmit: true)**
+
+**LIVE PROOF OF CONCEPT (PoC):**
+
+```json
+{ 
+"approved": false, 
+"score": 0.64, 
+"resubmit": true 
+}
+---
 # Meta-CEW+QIM v2.2 – Ethical Quantum Governance for AI
 **"resubmit": true** – QIM no rechaza. **Mejora.**
 ## 🚀 The Shield Against Malicious AI
